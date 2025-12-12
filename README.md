@@ -2,8 +2,7 @@
 Software engineer with experience in TypeScript, React, and relational databases. I enjoy building reliable, maintainable systems and working collaboratively on projects that improve user experience and performance.
 
 ## Projects
-- [Bearable](https://github.com/mmel4nie/Bearable)<br>
-  Task Management app to increase productivity for ADHD users
+- [Bearable](https://github.com/mmel4nie/Bearable) - Task Management app to increase productivity for ADHD users
 
   
 - [DubsTech Datathon](https://github.com/mmel4nie/Datathon-2023)<br>
