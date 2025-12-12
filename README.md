@@ -5,8 +5,7 @@ Software engineer with experience in TypeScript, React, and relational databases
 - [Bearable](https://github.com/mmel4nie/Bearable) - Task Management app to increase productivity for ADHD users
 
   
-- [DubsTech Datathon](https://github.com/mmel4nie/Datathon-2023)<br>
-  Data visualization project on Seattle Crime for DubsTech Datathon 2023
+- [DubsTech Datathon](https://github.com/mmel4nie/Datathon-2023) - Data visualization project on Seattle Crime for DubsTech Datathon 2023
 <!--
 **mmel4nie/mmel4nie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
